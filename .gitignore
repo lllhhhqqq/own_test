@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Debug/empty_test.log
 Debug/empty_test.tlog/cl.command.1.tlog
 Debug/empty_test.tlog/CL.read.1.tlog
@@ -10,3 +11,26 @@ Debug/main.obj
 Debug/vc120.idb
 Debug/vc120.pdb
 own_test/
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 725fa495798b5fe24f8da26b8c89e2281440a6f4
